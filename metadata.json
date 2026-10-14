@@ -1,0 +1,6 @@
+{
+  "name": "ONE Bank",
+  "description": "ONE Bank Mobile Banking - Premium redesign combining Apple-inspired Liquid Glass surfaces with Precision Financial architecture, predominantly white aesthetic, and full English & Bangla localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
